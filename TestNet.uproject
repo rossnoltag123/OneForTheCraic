@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8BCFEECF-4D07-DEE3-E641-B79760784B2F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestNet",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
